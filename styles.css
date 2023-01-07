@@ -5,7 +5,7 @@ body {
 }
 /* banner */
 .banner {
-    background: url('../media/banner1.png');
+    background: url('media/banner1.png');
     background-size: cover;
     background-repeat: no-repeat;
     padding: 200px;
@@ -98,7 +98,7 @@ p {
     padding: 0 200px;
 }
 .positive-item {
-    background: url(../media/watch.png);
+    background: url(media/watch.png);
     border-radius: 7px;
     background-repeat: no-repeat;
     background-size: cover;
